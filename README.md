@@ -28,7 +28,7 @@ $ npm install express
 ```
 
 ___The above command saves the installation locally in the ``node_modules`` directory and creates a directory express inside ``node_modules``.
-You should install the following important modules along with express.___
+You should install the following important modules along with Express JS.___
 
 * ___``body-parser`` - This is a node.js middleware for handling JSON, Raw, Text and URL encoded form data.___
 * ___``cookie-parser`` - Parse Cookie header and populate req.cookies with an object keyed by the cookie names.___
