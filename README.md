@@ -137,12 +137,12 @@ ___We've seen a basic application which serves HTTP request for the homepage. Ro
 let express = require("express")
 let app = express()
 
-// Repond with "Hello World" on the homepage.
+// Respond with "Hello World" on the homepage.
 app.get("/", (req, res) => {
     res.send("Hello World")
 })
 
-// respond to POST request on the root router "/", the application's home page.
+// Respond to POST request on the root router "/", the application's home page.
 app.post("/", (req, res) => {
     res.send("Got a POST request")
 })
