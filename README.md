@@ -164,7 +164,7 @@ app.listen(3000, (error) => {
 ```
 <br>
 
-___🎯 This ReadMe file is basic about the Epress JS, and it's topic is very long, but we can get more information at [Dev docs](https://devdocs.io/express/).___
+___🎯 This ReadMe file is basic about the Express JS, but you can get more information at [Dev docs](https://devdocs.io/express/).___
 
 <br>
 
