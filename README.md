@@ -80,7 +80,7 @@ app.get("/", (req, res) => {
 })
 ```
 
-___The following code is used to create a server, listen() is used to listen to the server on port 3000.Inside the callback will be checked if the server is working it's print ``console.log("This server is working...")``, otherwise is print ``console.log("error")``.___
+___The following code is used to create a server, listen() is used to listen to the server on port 3000.Inside the callback will be checked if the server is working it's print ``console.log("This server is working...")``, otherwise it's print ``console.log("error")``.___
 
 ```JS
 app.listen(3000, (error) => {
