@@ -41,7 +41,7 @@ $ npm install multer-parser --save
 ```
 <br>
 
-### ⚙️ Nodemon
+### 🛠️ Nodemon
 
 ___``Nodemon`` is a tool that helps develop ``node.js`` based applications by automatically restarting the node application when file changes in the directory are detected.
 Install Nodemon by using ``NPM``.___
