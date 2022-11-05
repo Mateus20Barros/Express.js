@@ -164,13 +164,12 @@ app.listen(3000, (error) => {
 ```
 <br>
 
-___🎯 This ReadMe file is basic about the Express JS, but you can get more information at [Dev docs](https://devdocs.io/express/).___
+___🎯 This ReadMe file is basic about the Express JS, but you can get more information at [Dev docs](https://devdocs.io/express/)___
 
 <br>
 
-<div align="right">
-    :octocat: Made by Mateus Barros🏆
-
+<div align="center">
+    :octocat: Made by Mateus Barros :octocat:
 </div>
   
 ---
